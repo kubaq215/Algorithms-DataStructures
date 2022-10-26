@@ -1,0 +1,17 @@
+7
+Język C
+Język C++
+Język Java
+Programowanie sieciowe
+Semantyczny Internet
+Systemy operacyjne
+Test
+1 2
+1 4
+1 6
+2 3
+3 4
+3 5
+4 5
+6 4
+7 3
